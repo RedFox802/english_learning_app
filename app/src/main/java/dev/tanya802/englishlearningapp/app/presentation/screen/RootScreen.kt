@@ -12,7 +12,7 @@ import dev.tanya802.englishlearningapp.app.presentation.component.AppBottomBar
 import dev.tanya802.englishlearningapp.app.presentation.component.BottomNavRoute
 import dev.tanya802.englishlearningapp.feature.home.presentation.screen.HomeScreen
 import dev.tanya802.englishlearningapp.feature.library.presentation.screen.LibraryScreen
-import dev.tanya802.englishlearningapp.uikit.EnglishLearningAppTheme
+import dev.tanya802.englishlearningapp.ui.theme.EnglishLearningAppTheme
 
 @Composable
 fun RootScreen() {
