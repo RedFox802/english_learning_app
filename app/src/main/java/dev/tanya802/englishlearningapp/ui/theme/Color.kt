@@ -34,3 +34,6 @@ val Error80 = Color(0xFFFDECEC)
 
 val Success40 = Color(0xFF2FBF71)
 val Success80 = Color(0xFFDFF5EA)
+
+
+val DeepGray = Color(0xFF939693)
